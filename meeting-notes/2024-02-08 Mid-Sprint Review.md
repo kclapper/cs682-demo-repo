@@ -8,7 +8,7 @@
 ## Update from Paul
 - ...
 
-## Update from Mierrot
+## Update from Ramsey
 - ...
 
 ## Update from Kyle

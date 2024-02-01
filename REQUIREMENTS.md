@@ -12,9 +12,9 @@ Note the use of _shall_, _should_, and _may_. _Shall_ denotes
 a requirement. _Should_ denotes a recommendation. _May_ 
 denotes permission.
 
-## [1. User Interface](#ui)
+## [1. User Interface](#ui) 
 
-### [1.1. Submit Button](#submit-button)
+### [1.1. Submit Button](#submit-button)  
 There shall be a button that allows users to submit their 
 responses to the game.
 
